@@ -1,6 +1,6 @@
-#include <xCore.h>  //include xCore library
-#include <xSW01.h>  //include sensor library
-#include <xOD01.h>
+#include <xCore.h>  //include xCore library @ https://github.com/xinabox/xCore
+#include <xSW01.h>  //include sensor library @ https://github.com/xinabox/xSW01
+#include <xOD01.h>  //include sensor library @ https://github.com/xinabox/xOD01
 
 
 
